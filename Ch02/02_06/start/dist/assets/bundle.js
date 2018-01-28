@@ -55,7 +55,7 @@
 		{ id: 'title',
 			className: 'header',
 			style: { backgroundColor: 'orange', color: 'white', fontFamily: 'verdana' } },
-		'Hello World'
+		'HEY WORLD!!'
 	), document.getElementById('react-container'));
 
 /***/ }
